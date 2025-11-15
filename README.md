@@ -64,6 +64,4 @@ Este projeto foi desenvolvido por:
 * **Patrick Mendes**
 * **GitHub:** [Patrick-M3ndes](https://github.com/Patrick-M3ndes)
 
-* **Patrick Mendes**
-* **GitHub:** [Patrick-M3ndes](https://github.com/Patrick-M3ndes)
 
