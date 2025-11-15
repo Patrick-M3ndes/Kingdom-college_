@@ -1,4 +1,4 @@
-# 📚 Kingdom College - Theology
+## Kingdom College - Theology
 
 ## Visão Geral do Projeto
 
@@ -8,7 +8,7 @@ O site foi desenvolvido para ser o ponto de contato principal dos alunos, aprese
 
 ---
 
-## 🚀 Funcionalidades Principais
+##  Funcionalidades Principais
 
 * **Design Responsivo:** Layout adaptável para dispositivos móveis e desktops, utilizando o framework Tailwind CSS.
 * **Navegação Rápida:** Menu principal fixo (sticky header) e navegação específica para dispositivos móveis.
@@ -57,7 +57,7 @@ Para clonar e executar este projeto em sua máquina, siga os passos abaixo:
 
 ---
 
-## 🤝 Autor
+##  Autor
 
 Este projeto foi desenvolvido por:
 
@@ -66,3 +66,4 @@ Este projeto foi desenvolvido por:
 
 * **Patrick Mendes**
 * **GitHub:** [Patrick-M3ndes](https://github.com/Patrick-M3ndes)
+
